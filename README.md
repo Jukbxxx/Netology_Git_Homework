@@ -1,7 +1,7 @@
 # Всем привет! Давайте знакомиться!
 ## Меня зовут Маша!
 
-<img src=photo.jpg alt="photo" height="300" widghth="300">
+<img src=https://github.com/Jukbxxx/Netology_Git_Homework/raw/main/photo.jpg alt="photo" height="300" widghth="300">
 
 Я пока что только учусь работать с Markdown, не судите строго :)
 
